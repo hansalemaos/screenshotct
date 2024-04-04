@@ -2,7 +2,7 @@
 
 ## Tested against Windows 10 / Python 3.11 / Anaconda
 
-### pip install getpublicipv4
+### pip install screenshotct
 
 ```PY
 import cv2
